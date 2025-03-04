@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+#range::-webkit-slider-thumb {
+    background-color: rgb(250, 249, 249);
+    border: none;
+    
+}
